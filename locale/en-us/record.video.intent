@@ -1,2 +1,5 @@
-Start video recording
-Playback video recording
+(start|do) video recording
+video record (me|) (for|until) {time}
+start video recording (me|audio|) for {time}
+record video
+video record (me|)
